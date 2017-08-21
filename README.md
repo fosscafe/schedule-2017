@@ -14,17 +14,18 @@
 | Nov 11 | -| -| Nov 12 | [Blockchain](https://www.meetup.com/fosscafe/events/242639535/)|-|
 | Nov 18 | -| -| Nov 19 | [Hyperledger](https://www.meetup.com/fosscafe/events/242639632/)|-|
 | Nov 25 | -| -| Nov 26 | [Ethereum](https://www.meetup.com/fosscafe/events/242639710/) |-|
+| Dec 02 | -| [cgroup v2, namespaces](https://www.meetup.com/fosscafe/events/242685749/)| Dec 03 | - |-|
 
 
 
 
-Note
 
+### Note
 The following are ToDO items
 
 Interim Hackathon
-* ContainerD Hackathon 
-* OCI Container Hackathon
+* ContainerD Hackathon
+* OCI Container Hackathon (Rust Bangalore community engaged as well)
 
 Cryptography
 * Public Key Crypto
