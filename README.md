@@ -10,10 +10,10 @@
 | Oct 07 | -| [Juju Charms](https://www.meetup.com/fosscafe/events/242412296/)      | Oct 08 | [LinkerD](https://www.meetup.com/fosscafe/events/242433640/) |-|
 | Oct 14 | -| [PowerShell DSC](https://www.meetup.com/fosscafe/events/242432139/)    | Oct 15 | [Envoy](https://www.meetup.com/fosscafe/events/242433713/) |-|
 | Oct 28 | -| [systemd-nspawn](https://www.meetup.com/fosscafe/events/242432235/)    | Oct 29 | [Istio](https://www.meetup.com/fosscafe/events/242433797/) |-|
-| Nov 04 | -| -| Nov 05 | [Peer 2 Peer Infrastructure](https://www.meetup.com/fosscafe/events/242639140/)|-|
-| Nov 11 | -| -| Nov 12 | [Blockchain](https://www.meetup.com/fosscafe/events/242639535/)|-|
-| Nov 18 | -| -| Nov 19 | [Hyperledger](https://www.meetup.com/fosscafe/events/242639632/)|-|
-| Nov 25 | -| -| Nov 26 | [Ethereum](https://www.meetup.com/fosscafe/events/242639710/) |-|
+| Nov 04 | -| [Merkle Tree](https://www.meetup.com/fosscafe/events/242724096/) | Nov 05 | [Peer 2 Peer Infrastructure](https://www.meetup.com/fosscafe/events/242639140/)|-|
+| Nov 11 | -| [Elliptic Curve Cryptography](https://www.meetup.com/fosscafe/events/242724156/) | Nov 12 | [Blockchain](https://www.meetup.com/fosscafe/events/242639535/)|-|
+| Nov 18 | -| [Consensus Protocols Workshop](https://www.meetup.com/fosscafe/events/242724379/) | Nov 19 | [Hyperledger](https://www.meetup.com/fosscafe/events/242639632/)|-|
+| Nov 25 | -| [Smart Contracts Prog using Solidity](https://www.meetup.com/fosscafe/events/242724741/) | Nov 26 | [Ethereum](https://www.meetup.com/fosscafe/events/242639710/) |-|
 | Dec 02 | -| [cgroup v2, namespaces](https://www.meetup.com/fosscafe/events/242685749/)| Dec 03 | - |-|
 
 
@@ -27,12 +27,6 @@ Interim Hackathon
 * ContainerD Hackathon
 * OCI Container Hackathon (Rust Bangalore community engaged as well)
 
-Cryptography
-* Public Key Crypto
-* Elliptic Curve Cryptography (ECC) sessions will be added as they are finalized.
-
-Programming languages 
-* for Smart Contracts (Serpent, Solidity and C++14) sessions will be conducted on the basis of skill level of community members.
 
 Join / Feedback
 fosscafe@googlegroups.com
