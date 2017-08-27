@@ -14,7 +14,7 @@
 | Nov 11 | -| [Elliptic Curve Cryptography](https://www.meetup.com/fosscafe/events/242724156/) | Nov 12 | [Blockchain](https://www.meetup.com/fosscafe/events/242639535/)|-|
 | Nov 18 | -| [Consensus Protocols](https://www.meetup.com/fosscafe/events/242724379/) | Nov 19 | [Hyperledger](https://www.meetup.com/fosscafe/events/242639632/)|-|
 | Nov 25 | -| [Smart Contracts Prog, Solidity](https://www.meetup.com/fosscafe/events/242724741/) | Nov 26 | [Ethereum](https://www.meetup.com/fosscafe/events/242639710/) |-|
-| Dec 02 | -| [cgroup v2, namespaces](https://www.meetup.com/fosscafe/events/242685749/)| Dec 03 | - |-|
+| Dec 02 | -| [cgroup v2, namespaces](https://www.meetup.com/fosscafe/events/242685749/)| Dec 03 | [Linux Capabilities(7)](https://www.meetup.com/fosscafe/events/242872828/) |-|
 
 
 
